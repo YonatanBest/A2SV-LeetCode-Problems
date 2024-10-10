@@ -4,11 +4,7 @@ class Solution:
         for i in nums:
             if i in ans:
                 ans[i] += 1
+                return True
             else:
                 ans[i] = 1
-        
-        
-        for i in ans:
-            if ans[i] > 1:
-                return True
         return False
