@@ -17,6 +17,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,8 +66,10 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
