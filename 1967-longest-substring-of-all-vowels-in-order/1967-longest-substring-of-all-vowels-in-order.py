@@ -28,6 +28,6 @@ class Solution:
                     if dic[i] == number:
                         cnt += 1
                         x = False
-        if number == 5:
+        if number == 5 and cnt >= 5:
             maxcnt = max(maxcnt, cnt)
         return maxcnt
