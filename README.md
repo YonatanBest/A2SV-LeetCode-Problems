@@ -58,12 +58,14 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## String
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Simulation
 |  |
 | ------- |
