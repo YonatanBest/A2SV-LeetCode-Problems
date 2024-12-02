@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -121,6 +123,7 @@
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0455-assign-cookies) |
