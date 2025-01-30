@@ -103,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
