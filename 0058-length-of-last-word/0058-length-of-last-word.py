@@ -3,9 +3,9 @@ class Solution:
         check = False
         num = 0
         for i in reversed(s):
-            if i.isalnum():
+            if i != " ":
                 check = True
                 num += 1
-            if not i.isalnum() and check:
+            if i == " " and check:
                 return num
         return num
