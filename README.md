@@ -41,6 +41,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
