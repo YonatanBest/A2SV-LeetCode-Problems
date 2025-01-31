@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
@@ -116,6 +117,7 @@
 | [0125-valid-palindrome](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0812-rotate-string) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
