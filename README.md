@@ -10,6 +10,7 @@
 | [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
