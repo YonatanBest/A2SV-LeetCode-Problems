@@ -16,6 +16,7 @@
 | [2491-smallest-even-multiple](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
