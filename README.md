@@ -64,6 +64,7 @@
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
@@ -108,6 +109,7 @@
 | [0347-top-k-frequent-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
@@ -132,6 +134,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0812-rotate-string) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1797-goal-parser-interpretation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
