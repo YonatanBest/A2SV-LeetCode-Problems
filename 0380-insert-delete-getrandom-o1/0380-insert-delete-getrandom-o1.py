@@ -2,27 +2,27 @@ import random
 class RandomizedSet:
     
     def __init__(self):
-        self.x = set()
+        self.index_map = {}
+        self.list_elements = []
 
     def insert(self, val: int) -> bool:
-        if val not in self.x:
-            self.x.add(val)
+        if val not in self.index_map:
+            self.index_map[val] = len(self.list_elements)
+            self.list_elements.append(val)
             return True
-        else:
-            return False
+        return False
 
     def remove(self, val: int) -> bool:
-        if val in self.x:
-            self.x.remove(val)
+        if val in self.index_map:
+            self.list_elements[self.index_map[val]], self.list_elements[-1] = self.list_elements[-1], self.list_elements[self.index_map[val]]
+            self.index_map[self.list_elements[self.index_map[val]]], self.index_map[val] = self.index_map[val], self.index_map[self.list_elements[self.index_map[val]]]
+            del self.index_map[self.list_elements.pop()]
             return True
-        else:
-            return False
+        return False
 
     def getRandom(self) -> int:
-        if len(self.x) > 0:
-            return list(self.x)[random.randint(0, len(self.x) - 1)]
-        else:
-            return []
+        rand_index = randint(0, len(self.list_elements) - 1)
+        return self.list_elements[rand_index]
 
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
