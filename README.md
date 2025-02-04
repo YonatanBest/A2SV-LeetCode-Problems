@@ -46,6 +46,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
