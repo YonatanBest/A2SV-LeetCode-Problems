@@ -4,9 +4,9 @@ class Solution:
         dic = defaultdict(int)
         res = []
         for i in cpdomains:
-            num, domain = map(str, i.split())
+            num, domain = i.split()
             num = int(num)
-            arr = list(map(str, domain.split(".")))
+            arr = domain.split(".")
             test = ""
             for j in range(len(arr)):
                 test = ".".join(arr[j:len(arr)+1])
