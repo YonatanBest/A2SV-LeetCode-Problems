@@ -42,6 +42,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0722-remove-comments](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0722-remove-comments) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0958-sort-array-by-parity-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -156,6 +157,7 @@
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0722-remove-comments](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
