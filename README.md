@@ -46,6 +46,7 @@
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0958-sort-array-by-parity-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +127,7 @@
 | [0347-top-k-frequent-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -153,6 +156,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
