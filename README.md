@@ -78,6 +78,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1797-goal-parser-interpretation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
