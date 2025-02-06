@@ -14,8 +14,6 @@ class Solution:
                 dic2[list2[j]] = [j]
         arr = []
         res = float('inf')
-        print(dic1)
-        print(dic2)
         for k in dic1:
             if k in dic2:
                 if dic1[k][0] + dic2[k][0] < res:
