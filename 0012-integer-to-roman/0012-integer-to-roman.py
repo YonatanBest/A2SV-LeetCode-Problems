@@ -54,8 +54,6 @@ class Solution:
             else:
                 for i in range(num):
                     ans += "I"
-            print(num)
-            print(ans)
             temp -= num
             num = temp
             h = 10**(len(str(num)) - 1)
