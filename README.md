@@ -76,6 +76,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3651-transformed-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
+| [3651-transformed-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3651-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
