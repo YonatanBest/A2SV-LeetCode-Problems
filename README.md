@@ -50,6 +50,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0722-remove-comments) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
