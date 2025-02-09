@@ -1,7 +1,6 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         dir = 0
-        pos = [(0,1), (1,0), (0, -1), (-1, 0)]
         matrix_arr = []
         row = 0
         col = 0
