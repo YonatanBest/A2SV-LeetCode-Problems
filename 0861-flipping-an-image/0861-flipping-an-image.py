@@ -9,5 +9,5 @@ class Solution:
                 j -= 1
         for row in range(len(image)):
             for col in range(len(image)):
-                image[row][col] = 0 if image[row][col] else 1
+                image[row][col] =  1 - image[row][col]
         return image
