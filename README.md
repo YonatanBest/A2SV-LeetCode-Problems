@@ -54,6 +54,7 @@
 | [0722-remove-comments](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0722-remove-comments) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
+| [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0958-sort-array-by-parity-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1449-print-words-vertically) |
@@ -233,6 +236,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0958-sort-array-by-parity-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -305,6 +309,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
+| [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
