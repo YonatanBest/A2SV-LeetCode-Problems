@@ -1,12 +1,14 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        for times in range(len(heights)):
-            min_curr = times
+        temp = len(heights) - 2
+        while temp >= 0:
+            times = temp
             i = times + 1
             while i < len(heights):
-                if heights[i] > heights[min_curr]:
-                    min_curr = i
+                if heights[times] < heights[i]:
+                    heights[times], heights[i] = heights[i], heights[times]
+                    names[times], names[i] = names[i], names[times]
+                    times += 1
                 i += 1
-            heights[times], heights[min_curr] = heights[min_curr], heights[times]
-            names[times], names[min_curr] = names[min_curr], names[times]
+            temp -= 1
         return names
