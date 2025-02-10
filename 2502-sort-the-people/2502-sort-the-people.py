@@ -5,7 +5,7 @@ class Solution:
             dic[heights[i]] = names[i]
         for times in range(len(heights)):
             check = True
-            for i in range(1, len(heights)):
+            for i in range(1, len(heights) - times):
                 if heights[i - 1] < heights[i]:
                     heights[i - 1], heights[i] = heights[i], heights[i - 1]
                     check = False
