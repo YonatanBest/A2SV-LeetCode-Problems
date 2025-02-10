@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0066-plus-one) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
