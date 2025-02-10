@@ -1,6 +1,5 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        dic = {}
         for times in range(len(heights)):
             min_curr = times
             i = times + 1
