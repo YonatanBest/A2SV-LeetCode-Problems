@@ -51,6 +51,7 @@
 | [0414-third-maximum-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -237,6 +238,7 @@
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -342,6 +344,7 @@
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0898-transpose-matrix) |
