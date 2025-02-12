@@ -90,6 +90,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -129,6 +130,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Prefix Sum
 |  |
@@ -280,6 +283,7 @@
 | [1009-pancake-sorting](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
