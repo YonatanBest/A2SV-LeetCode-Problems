@@ -4,9 +4,4 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         k = k % len(nums)
-        dic = {}
-        for i in range(len(nums)):
-            dic[i] = nums[i]
-        for j in range(len(nums)):
-            nums[(j + k) % len(nums)] = dic[j]
-        return nums
+        nums[:k], nums[k:] = nums[len(nums) - k:], nums[:len(nums) - k]
