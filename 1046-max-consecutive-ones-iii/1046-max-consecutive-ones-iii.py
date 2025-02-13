@@ -24,7 +24,6 @@ class Solution:
                     i += 1
                     chance = 1
                     j -= 1
-            print(i, j, chance, max_len)
             j += 1
         max_len = max(max_len, dic[1])
         return max_len
