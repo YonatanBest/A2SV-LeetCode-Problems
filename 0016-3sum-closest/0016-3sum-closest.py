@@ -3,8 +3,6 @@ class Solution:
         nums.sort()
         k = len(nums) - 1
         closest_sum = sum(nums[:3])
-
-        print(nums)
         while k >= 2:
             i = 0
             j = k - 1
