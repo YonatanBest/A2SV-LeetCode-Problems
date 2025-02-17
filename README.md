@@ -99,6 +99,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2465-shifting-letters-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -207,6 +208,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2465-shifting-letters-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 ## Counting
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2465-shifting-letters-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
