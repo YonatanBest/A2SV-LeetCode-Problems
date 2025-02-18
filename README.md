@@ -152,6 +152,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -233,6 +234,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2465-shifting-letters-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Simulation
 |  |
 | ------- |
