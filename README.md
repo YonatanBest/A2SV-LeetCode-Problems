@@ -37,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
@@ -334,6 +335,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 ## Design
@@ -392,6 +394,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0948-sort-an-array) |
