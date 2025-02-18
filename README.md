@@ -89,6 +89,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1791-richest-customer-wealth](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
@@ -195,6 +196,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -208,6 +210,7 @@
 | [0724-find-pivot-index](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 ## Counting
@@ -364,6 +367,7 @@
 | [0768-partition-labels](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0768-partition-labels) |
 | [1009-pancake-sorting](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
