@@ -7,8 +7,6 @@ class Solution:
         for i in range(len(nums) - 2, -1, -1):
             suffix.append(suffix[-1]*nums[i])
         suffix.reverse()
-        print(prefix)
-        print(suffix)
         for i in range(len(nums)):
             if i - 1 >= 0 and i + 1 < len(nums):
                 nums[i] = prefix[i - 1] * suffix[i + 1]
