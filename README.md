@@ -357,6 +357,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -471,4 +472,5 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
