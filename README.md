@@ -406,6 +406,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -466,4 +467,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
