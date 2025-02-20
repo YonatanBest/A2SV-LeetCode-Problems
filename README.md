@@ -121,6 +121,7 @@
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -358,6 +359,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
@@ -480,10 +482,15 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
