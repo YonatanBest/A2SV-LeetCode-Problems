@@ -18,6 +18,7 @@
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
+| [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -87,6 +88,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1449-print-words-vertically](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1449-print-words-vertically) |
+| [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1651-shuffle-string) |
@@ -218,6 +220,7 @@
 | [0724-find-pivot-index](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -368,6 +371,7 @@
 | [0303-range-sum-query-immutable](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
+| [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -502,4 +506,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
