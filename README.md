@@ -18,6 +18,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1642-water-bottles) |
@@ -168,6 +169,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -349,6 +351,7 @@
 | [0455-assign-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
