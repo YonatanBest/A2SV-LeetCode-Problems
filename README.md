@@ -362,6 +362,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -384,6 +385,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -513,6 +515,7 @@
 | [0328-odd-even-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
