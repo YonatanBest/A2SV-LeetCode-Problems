@@ -1,21 +1,18 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         count = 0
-        check = False
-        for i in range(len(nums) - 2, -1, -1):
-            
-            if check:
-                if nums[i] > count:
-                    check = False
-                    count = 0
-                else:
-                    count += 1
-
-            if nums[i] == 0 and not check:
-                count += 1
-                check = True
-            print(count, i, nums[i])
-        if check:
-            return False
-        else:
+        check = True
+        if len(nums) == 1:
             return True
+        i = len(nums) - 2
+        j = len(nums) - 1
+        while i >= 0:
+            if j - i <= nums[i]:
+                check = True
+                j = i
+                i -= 1
+            else:
+                check = False
+                i -= 1
+            
+        return check
