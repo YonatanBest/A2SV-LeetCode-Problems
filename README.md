@@ -43,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -374,6 +375,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 ## Design
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0561-array-partition) |
