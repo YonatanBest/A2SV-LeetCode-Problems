@@ -21,6 +21,7 @@
 | [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1018-largest-perimeter-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -422,6 +423,7 @@
 | [1009-pancake-sorting](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
