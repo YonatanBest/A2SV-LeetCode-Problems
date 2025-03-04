@@ -90,6 +90,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
@@ -212,6 +213,7 @@
 | [1009-pancake-sorting](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -413,6 +415,7 @@
 | [0917-boats-to-save-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
