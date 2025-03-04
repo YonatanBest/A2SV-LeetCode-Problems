@@ -30,6 +30,7 @@
 | [2556-convert-the-temperature](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
@@ -317,6 +318,7 @@
 | [2465-shifting-letters-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3055-maximum-odd-binary-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
 |  |
@@ -425,6 +427,7 @@
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3055-maximum-odd-binary-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3195-separate-black-and-white-balls) |
 ## Counting Sort
 |  |
