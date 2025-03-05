@@ -399,6 +399,7 @@
 | [0303-range-sum-query-immutable](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1582-design-browser-history) |
 ## Stack
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
@@ -557,6 +559,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
