@@ -104,6 +104,7 @@
 | [1449-print-words-vertically](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1449-print-words-vertically) |
 | [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1651-shuffle-string) |
@@ -276,6 +277,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
@@ -421,6 +423,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
@@ -490,6 +493,7 @@
 | [0347-top-k-frequent-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -572,4 +576,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
