@@ -80,6 +80,7 @@
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0797-rabbits-in-forest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
@@ -411,6 +412,7 @@
 | [0071-simplify-path](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -569,4 +571,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
