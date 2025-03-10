@@ -404,6 +404,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
@@ -415,6 +416,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -425,6 +427,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
