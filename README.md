@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 ## Sorting
@@ -490,6 +492,7 @@
 | [0203-remove-linked-list-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
