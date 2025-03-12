@@ -2,7 +2,6 @@ class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
         self.new = [1]
         def pascal(ans, x):
-            print(ans, x)
             if x == 0:
                 return ans
             if x == 1:
