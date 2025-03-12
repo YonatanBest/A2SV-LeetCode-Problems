@@ -1,10 +1,15 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
-        if rowIndex == 0:
-            return [1]
-        ans = [1,1]
-        temp = 0
-        while rowIndex != 1:
+        self.new = [1]
+        def pascal(ans, x):
+            print(ans, x)
+            if x == 0:
+                return ans
+            if x == 1:
+                print("ans")
+                self.new = ans
+                return ans
+            temp = 0
             ans.append(1)
             for i in range(1, len(ans) - 1):
                 c = ans[i]
@@ -14,7 +19,8 @@ class Solution:
                     ans[i] = ans[i] + ans[i - 1]
                 temp = ans[i] - c
             temp = 0
-            rowIndex -= 1
-        return ans
+            pascal(ans, x - 1)
+        pascal([1,1], rowIndex)
+        return self.new
 
 
