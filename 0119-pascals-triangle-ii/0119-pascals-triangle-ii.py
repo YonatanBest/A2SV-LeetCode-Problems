@@ -13,9 +13,7 @@ class Solution:
                 else:
                     ans[i] = ans[i] + ans[i - 1]
                 temp = ans[i] - c
-                print(ans)
             temp = 0
-            print("+++")
             rowIndex -= 1
         return ans
 
