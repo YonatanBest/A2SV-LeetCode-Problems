@@ -9,7 +9,7 @@ class Solution:
             new.reverse()
             return new
         def binaryString(n, ans):
-            if n == 0:
+            if len(ans) > k:
                 return ans
             ans.extend(["1"] + inverter(ans))
             binaryString(n-1, ans)
