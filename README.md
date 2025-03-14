@@ -424,6 +424,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -610,11 +611,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -625,4 +628,5 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
