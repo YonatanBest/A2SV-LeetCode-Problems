@@ -616,6 +616,7 @@
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -638,9 +639,11 @@
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
