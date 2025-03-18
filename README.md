@@ -620,6 +620,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -629,6 +630,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -646,6 +648,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Search Tree
 |  |
 | ------- |
