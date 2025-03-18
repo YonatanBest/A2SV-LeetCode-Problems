@@ -12,13 +12,13 @@ class Solution:
         def deep_copy_tree(root):
             if root is None:
                 return None
-            # Create a new node with the same value as root
             new_node = TreeNode(root.val)
-            # Recursively copy the left and right subtrees
             new_node.left = deep_copy_tree(root.left)
             new_node.right = deep_copy_tree(root.right)
             return new_node
+
         temp = deep_copy_tree(root)
+
         def difByMin(root):
             if not root:
                 return
