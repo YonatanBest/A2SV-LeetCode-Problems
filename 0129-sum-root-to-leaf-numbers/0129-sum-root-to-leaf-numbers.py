@@ -5,18 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def __init__(self):
+        self.ans = 0
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        self.ans = []
-        def num(root):
             if root and not root.left and not root.right:
-                self.ans.append(root.val)
+                self.ans += root.val
             if not root:
-                return
+                return 
             if root.left:
                 root.left.val = root.left.val + root.val*10
             if root.right:
                 root.right.val = root.right.val + root.val*10
-            num(root.left)
-            num(root.right)
-        num(root)
-        return sum(self.ans)
+            self.sumNumbers(root.left)
+            self.sumNumbers(root.right)
+            return self.ans
