@@ -6,10 +6,11 @@ class Solution:
             if len(path) == k:
                 ans.append(path[:])
                 return 
-
-            for can in range(firstNum, n + 1):
-                path.append(can)
-                backtrack(can + 1, path)
-                path.pop()
+            if firstNum > n:
+                return
+            path.append(firstNum)
+            backtrack(firstNum + 1, path)
+            path.pop()
+            backtrack(firstNum + 1, path)
         backtrack(1, [])
         return ans
