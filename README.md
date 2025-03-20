@@ -328,6 +328,7 @@
 | [1797-goal-parser-interpretation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -659,4 +660,5 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0077-combinations) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
