@@ -9,10 +9,11 @@ class Solution:
             num = 0
             for j in range(i, len(s)):
                 num = num*10 + int(s[j])
-                path.append(num)
-                if backtrack(j + 1, path):
-                    return True
-                path.pop()
+                if not path or num == path[-1] - 1:
+                    path.append(num)
+                    if backtrack(j + 1, path):
+                        return True
+                    path.pop()
             return False
         ans = backtrack(0, [])
         return ans
