@@ -104,6 +104,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
+| [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1449-print-words-vertically](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1449-print-words-vertically) |
 | [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -198,6 +199,7 @@
 | [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
+| [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +409,7 @@
 | [0055-jump-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 ## Design
 |  |
 | ------- |
@@ -660,5 +663,10 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0077-combinations) |
+| [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
