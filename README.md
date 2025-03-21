@@ -55,6 +55,7 @@
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0164-maximum-gap](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0164-maximum-gap) |
@@ -518,6 +519,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0948-sort-an-array) |
@@ -624,6 +626,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -652,6 +655,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -663,6 +667,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
