@@ -6,7 +6,6 @@
 #         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        arr = []
         def traverse(tree1, tree2):
             if not tree1 and not tree2:
                 return True
