@@ -44,6 +44,7 @@
 | [0015-3sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -664,6 +665,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
