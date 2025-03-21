@@ -6,19 +6,16 @@
 #         self.right = right
 class Solution:
     def __init__(self):
-        self.ans = []
         self.level = []
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
         def finder(num, root):
             if not root:
                 return
             if len(self.level) <= num:
-                self.level.append([root.val])
+                self.level.append(root.val)
             else:
-                self.level[num].append(root.val)
+                self.level[num] = max(root.val, self.level[num])
             finder(num + 1, root.right)
             finder(num + 1, root.left)
         finder(0, root)
-        for arr in self.level:
-            self.ans.append(max(arr))
-        return self.ans
+        return self.level
