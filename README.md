@@ -309,6 +309,7 @@
 | [0168-excel-sheet-column-title](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
@@ -673,6 +674,7 @@
 | [0077-combinations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0306-additive-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0306-additive-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Bitmask
