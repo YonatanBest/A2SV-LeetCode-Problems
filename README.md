@@ -89,6 +89,7 @@
 | [0724-find-pivot-index](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0859-design-circular-deque) |
@@ -195,6 +196,7 @@
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
