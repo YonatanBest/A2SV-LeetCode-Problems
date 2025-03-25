@@ -6,9 +6,8 @@ class Solution:
         fpos = -1
         lpos = -1
         def first_pos(i, j, mid):
-            nonlocal fpos
             if i > j:
-                return
+                return i
             if nums[mid] < target:
                 i = mid + 1
             else:
@@ -16,12 +15,10 @@ class Solution:
                     fpos = mid
                 j = mid - 1
             mid = (i + j)//2
-            first_pos(i, j, mid)
-            return
+            return first_pos(i, j, mid)
         def last_pos(i, j, mid):
-            nonlocal lpos
             if i > j:
-                return
+                return j
             if nums[mid] > target:
                 j = mid - 1
             else:
@@ -29,8 +26,9 @@ class Solution:
                     lpos = mid
                 i = mid + 1
             mid = (i + j)//2
-            last_pos(i, j, mid)
-            return
-        first_pos(i, j, mid)
-        last_pos(i, j, mid)
-        return [fpos, lpos]
+            return last_pos(i, j, mid)
+        fpos = first_pos(i, j, mid)
+        lpos = last_pos(i, j, mid)
+        if fpos < len(nums) and nums[fpos] == target:
+            return [fpos, lpos]
+        return [-1,-1]
