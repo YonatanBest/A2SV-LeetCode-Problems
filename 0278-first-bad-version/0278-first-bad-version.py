@@ -12,4 +12,4 @@ class Solution:
             else:
                 i = mid + 1
             mid = (i + j)//2
-        return j + 1
+        return i
