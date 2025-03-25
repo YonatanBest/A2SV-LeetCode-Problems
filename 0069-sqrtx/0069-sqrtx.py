@@ -1,7 +1,7 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
         i = 0
-        j = x
+        j = x//2 + 1
         mid = (i + j)//2
         while i <= j:
             if mid*mid <= x and (mid+1)*(mid+1) > x:
