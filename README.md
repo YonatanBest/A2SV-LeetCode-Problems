@@ -109,6 +109,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -205,6 +206,7 @@
 | [0792-binary-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
