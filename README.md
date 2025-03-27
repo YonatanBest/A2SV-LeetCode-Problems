@@ -144,6 +144,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3643-zero-array-transformation-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -210,6 +211,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [3643-zero-array-transformation-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
