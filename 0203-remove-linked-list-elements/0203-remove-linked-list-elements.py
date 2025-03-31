@@ -7,11 +7,6 @@ class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
             if not head:
                 return None
-            if head.next == None:
-                if head.val == val:
-                    return None
-                else:
-                    return head
             if head.val != val:
                 head.next = self.removeElements(head.next, val)
             else:
