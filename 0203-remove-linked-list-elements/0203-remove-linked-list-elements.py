@@ -9,10 +9,10 @@ class Solution:
         dummy.next = head
         def linked(current):
             if not current:
-                return
+                return dummy.next
             if current and current.next and current.next.val == val:
                 current.next = current.next.next
                 linked(current)
             linked(current.next)
-        linked(dummy)
-        return dummy.next
+            return dummy.next
+        return linked(dummy)
