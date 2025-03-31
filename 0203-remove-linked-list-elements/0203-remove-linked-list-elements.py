@@ -5,17 +5,15 @@
 #         self.next = next
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
-        def linked(current):
-            if not current:
+            if not head:
                 return None
-            if current.next == None:
-                if current.val == val:
+            if head.next == None:
+                if head.val == val:
                     return None
                 else:
-                    return current
-            if current.val != val:
-                current.next = linked(current.next)
+                    return head
+            if head.val != val:
+                head.next = self.removeElements(head.next, val)
             else:
-                return linked(current.next)
-            return current
-        return linked(head)
+                return self.removeElements(head.next, val)
+            return head
