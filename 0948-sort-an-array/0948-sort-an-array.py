@@ -1,17 +1,29 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        bucket = [[] for i in range(1_000)]
-        for i in nums:
-            idx = i//1_000 + 50
-            bucket[idx].append(i)
-            right = len(bucket[idx]) - 2
-            while right >= 0:
-                if bucket[idx][right] > bucket[idx][right + 1]:
-                    bucket[idx][right], bucket[idx][right + 1] = bucket[idx][right + 1], bucket[idx][right]
-                    right -= 1
+        def merge(left, right):
+            arr = []
+            l = 0
+            r = 0
+            while l < len(left) and r < len(right):
+                if left[l] <= right[r]:
+                    arr.append(left[l])
+                    l += 1
                 else:
-                    break
-        nums = []
-        for arr in bucket:
-            nums += arr
-        return nums
+                    arr.append(right[r])
+                    r += 1
+            while l < len(left):
+                arr.append(left[l])
+                l += 1
+             
+            while r < len(right):
+                arr.append(right[r])
+                r += 1
+            return arr
+
+        def merge_sort(arr):
+            if len(arr) == 1:
+                return arr
+            left = merge_sort(arr[:len(arr)//2])
+            right =  merge_sort(arr[len(arr)//2:])
+            return merge(left, right)
+        return merge_sort(nums)
