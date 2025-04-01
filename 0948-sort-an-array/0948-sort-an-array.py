@@ -1,6 +1,6 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        bucket = [[] for i in range(1_001)]
+        bucket = [[] for i in range(1_000)]
         for i in nums:
             idx = i//1_000 + 50
             bucket[idx].append(i)
