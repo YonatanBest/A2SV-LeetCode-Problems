@@ -1,8 +1,8 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        bucket = [[] for i in range(101)]
+        bucket = [[] for i in range(201)]
         for i in nums:
-            idx = i//1_000 + 50
+            idx = i//500 + 100
             bucket[idx].append(i)
             right = len(bucket[idx]) - 2
             while right >= 0:
