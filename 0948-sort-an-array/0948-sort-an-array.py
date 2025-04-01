@@ -1,18 +1,17 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        bucket = [[], [], [], [], [], [], [], [], [], [], []]
+        bucket = [[] for i in range(1_001)]
         for i in nums:
-            idx = i//10_000 + 5
+            idx = i//1_000 + 50
             bucket[idx].append(i)
-            # right = len(bucket[idx]) - 2
-            # while right >= 0:
-            #     if bucket[idx][right] > bucket[idx][right + 1]:
-            #         bucket[idx][right], bucket[idx][right + 1] = bucket[idx][right + 1], bucket[idx][right]
-            #         right -= 1
-            #     else:
-            #         break
-        print(bucket)
+            right = len(bucket[idx]) - 2
+            while right >= 0:
+                if bucket[idx][right] > bucket[idx][right + 1]:
+                    bucket[idx][right], bucket[idx][right + 1] = bucket[idx][right + 1], bucket[idx][right]
+                    right -= 1
+                else:
+                    break
         nums = []
         for arr in bucket:
-            nums += sorted(arr)
+            nums += arr
         return nums
