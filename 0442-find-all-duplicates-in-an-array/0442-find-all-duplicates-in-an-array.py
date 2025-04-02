@@ -1,8 +1,11 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        dic = Counter(nums)
         ans = []
-        for i in dic:
-            if dic[i] == 2:
-                ans.append(i)
+        dic = {}
+        for ele in nums:
+            if ele not in dic:
+                dic[ele] = 1
+            else:
+                ans.append(ele)
+                del dic[ele]
         return ans
