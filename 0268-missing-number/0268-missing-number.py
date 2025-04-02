@@ -3,7 +3,11 @@ class Solution:
         nums.sort()
         i = 0
         j = len(nums) - 1
-        for i in range(len(nums)):
-            if i != nums[i]:
-                return i
-        return nums[-1] + 1
+        mid = (i + j)//2
+        while i <= j:
+            if nums[mid] == mid:
+                i = mid + 1
+            else:
+                j = mid - 1
+            mid = (i + j)//2
+        return i
