@@ -89,6 +89,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0722-remove-comments](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -571,6 +572,7 @@
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
@@ -676,6 +678,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -689,6 +692,7 @@
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -742,6 +746,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
