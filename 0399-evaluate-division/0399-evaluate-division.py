@@ -15,9 +15,8 @@ class Solution:
                 graph.append([[equations[i][0], 1/values[i]]])
             elif values[i]:
                 graph[test[equations[i][1]]].append([equations[i][0], 1/values[i]])
-                
-        
-        def traverse(start,end, visited):
+
+        def traverse(start, end, visited):
             if start not in test:
                 return  -1 
                 
@@ -38,9 +37,9 @@ class Solution:
                         return j[1]*temp
             return -1
         
+        
         ans = []
         for que in queries:
             ans.append(traverse(que[0], que[1], set()))
                 
-            # print()
         return ans
