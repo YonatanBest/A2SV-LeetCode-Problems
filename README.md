@@ -134,6 +134,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2195-time-needed-to-buy-tickets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
@@ -504,6 +505,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3055-maximum-odd-binary-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -554,6 +556,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
