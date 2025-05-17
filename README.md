@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -221,6 +222,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
@@ -328,6 +330,7 @@
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -378,6 +381,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
