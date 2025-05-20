@@ -19,6 +19,7 @@
 | [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
