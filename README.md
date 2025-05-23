@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -550,6 +551,7 @@
 | [0203-remove-linked-list-elements](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
