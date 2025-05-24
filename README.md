@@ -350,6 +350,7 @@
 | [0344-reverse-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -431,6 +432,7 @@
 | [0283-move-zeroes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -455,6 +457,7 @@
 | [0055-jump-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 ## Design
 |  |
