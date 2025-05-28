@@ -138,6 +138,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2048-build-array-from-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -403,6 +404,7 @@
 | [1642-water-bottles](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2048-build-array-from-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
