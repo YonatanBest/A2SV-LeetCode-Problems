@@ -24,6 +24,7 @@
 | [0367-valid-perfect-square](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -355,6 +356,7 @@
 | [0392-is-subsequence](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0500-keyboard-row) |
@@ -395,6 +397,7 @@
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
