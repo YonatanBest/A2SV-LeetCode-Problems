@@ -18,10 +18,10 @@ class Solution:
 
         def traverse(start, end, visited):
             if start not in test:
-                return  -1 
+                return -1
                 
             if end not in test:
-                return -1 
+                return -1
                 
             visited.add(start)
             
