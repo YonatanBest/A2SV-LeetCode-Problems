@@ -160,6 +160,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-zero-array-transformation-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3651-transformed-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2645-pass-the-pillow) |
 | [3651-transformed-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3651-transformed-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -671,6 +674,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3790-fruits-into-baskets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -820,4 +824,8 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
