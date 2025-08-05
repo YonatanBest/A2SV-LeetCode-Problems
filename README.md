@@ -112,6 +112,7 @@
 | [0907-koko-eating-bananas](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0919-projection-area-of-3d-shapes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
+| [0940-fruit-into-baskets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -198,6 +199,7 @@
 | [0768-partition-labels](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
+| [0940-fruit-into-baskets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -328,6 +330,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
