@@ -8,6 +8,4 @@ class Solution:
                     stack.pop()
             elif j != "" and j != ".":
                 stack.append(j)
-        print(stack)
-        print(temp)
         return "/" + "/".join(stack)
