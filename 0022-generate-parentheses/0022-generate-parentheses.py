@@ -1,26 +1,20 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         ans = []
-        def valid(path):
-            stack = []
-            for i in path:
-                if i == "(":
-                    stack.append(i)
-                elif stack:
-                    stack.pop()
-                else:
-                    return False
-            return not stack
-        def backtrack(path):
-            nonlocal ans
+        def backtrack(path, dic):
             if len(path) == n * 2:
-                if valid(path.copy()):
+                if dic["("] == dic[")"]:
                     ans.append("".join(path.copy()))
                 return
             for j in ["(", ")"]:
+                dic[j] += 1
+                if dic[")"] > dic["("]:
+                    dic[j] -= 1
+                    continue
                 path.append(j)
-                backtrack(path)
+                backtrack(path, dic)
+                dic[j] -= 1
                 path.pop()
             return
-        backtrack([])
+        backtrack([], defaultdict(int))
         return ans
