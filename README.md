@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -352,6 +353,7 @@
 | [0067-add-binary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
@@ -609,6 +611,7 @@
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
@@ -713,6 +716,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0101-symmetric-tree) |
@@ -794,6 +798,7 @@
 | [0046-permutations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0306-additive-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0306-additive-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
