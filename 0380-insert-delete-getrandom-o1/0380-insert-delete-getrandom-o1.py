@@ -13,13 +13,15 @@ class RandomizedSet:
 
     def remove(self, val: int) -> bool:
         if val in self.dic:
+            self.arr[self.dic[val]], self.arr[-1] = self.arr[-1], self.arr[self.dic[val]]
+            self.dic[self.arr[self.dic[val]]] = self.dic[val]
+            self.arr.pop()
             del self.dic[val]
             return True
         return False
 
     def getRandom(self) -> int:
-        index = random.choice(list(self.dic.values()))
-        return self.arr[index]
+        return random.choice(self.arr)
 
 
 # Your RandomizedSet object will be instantiated and called as such:
