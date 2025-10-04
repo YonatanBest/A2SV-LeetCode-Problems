@@ -359,6 +359,7 @@
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -705,6 +706,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -727,6 +729,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -774,6 +777,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -800,6 +804,7 @@
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0306-additive-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
