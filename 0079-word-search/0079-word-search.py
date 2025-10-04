@@ -1,5 +1,7 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
+        if len(board[0])*len(board) < len(word):
+            return False
         dir = [(1, 0), (0, 1), (-1, 0), (0, -1)]
         def backtrack(i, j, curr, visited):
             if curr >= len(word):
