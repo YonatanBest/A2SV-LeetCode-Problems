@@ -346,6 +346,7 @@
 | [0012-integer-to-roman](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -471,6 +472,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -798,6 +800,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0077-combinations) |
