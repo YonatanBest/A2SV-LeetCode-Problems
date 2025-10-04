@@ -6,9 +6,17 @@
 #         self.right = right
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        if root and not root.left and not root.right:
-            return [root.val]
-        if not root:
-            return []
-        arr = self.postorderTraversal(root.left) + self.postorderTraversal(root.right) + [root.val]
-        return arr
+        path = []
+        def backtrack(root):
+            nonlocal path
+            
+            if not root:
+                return
+
+            backtrack(root.left)
+            backtrack(root.right)
+            path.append(root.val)
+
+            return
+        backtrack(root)
+        return path
