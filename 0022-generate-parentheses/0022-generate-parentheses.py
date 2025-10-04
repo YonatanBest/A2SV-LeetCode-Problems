@@ -4,7 +4,7 @@ class Solution:
         def backtrack(path, dic):
             if len(path) == n * 2:
                 if dic["("] == dic[")"]:
-                    ans.append("".join(path.copy()))
+                    ans.append("".join(path))
                 return
             for j in ["(", ")"]:
                 dic[j] += 1
