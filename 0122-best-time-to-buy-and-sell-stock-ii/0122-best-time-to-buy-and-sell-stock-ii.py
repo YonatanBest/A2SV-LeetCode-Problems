@@ -3,7 +3,7 @@ class Solution:
         max_profit = 0
         min_price = prices[0]
         for j in prices:
-            if min_price <= j:
+            if min_price < j:
                 max_profit += j - min_price
             min_price = j
         return max_profit
