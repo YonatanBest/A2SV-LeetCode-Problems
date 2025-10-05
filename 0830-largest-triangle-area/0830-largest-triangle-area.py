@@ -9,7 +9,7 @@ class Solution:
             s = (a+b+c)/2
             if s*(s-a)*(s-b)*(s-c) < 0:
                 return 0
-            area = math.sqrt(s*(s-a)*(s-b)*(s-c))
+            area = s*(s-a)*(s-b)*(s-c)
             return area
         def find(path, j):
             nonlocal max_area
@@ -23,4 +23,4 @@ class Solution:
                 path.pop()
             return
         find([], 0)
-        return max_area
+        return math.sqrt(max_area)
