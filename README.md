@@ -28,6 +28,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1018-largest-perimeter-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -106,6 +107,7 @@
 | [0792-binary-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
+| [0830-largest-triangle-area](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0890-lemonade-change) |
@@ -637,6 +639,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 ## Game Theory
 |  |
