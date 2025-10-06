@@ -4,6 +4,4 @@ class Solution:
         ans = []
         for j in strs:
             dic["".join(sorted(j))].append(j)
-        for j in dic:
-            ans.append(dic[j])
-        return ans
+        return list(dic.values())
