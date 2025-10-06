@@ -1,8 +1,8 @@
-from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        majority = ceil(len(nums)/2)
-        rep = Counter(nums)
-        for i in rep:
-            if rep[i] >= majority:
-                return i
+        majority = defaultdict(int)
+        for num in nums:
+            majority[num] += 1
+
+        ans = sorted(majority.items(), key= lambda x: x[1], reverse=True)
+        return ans[0][0]
