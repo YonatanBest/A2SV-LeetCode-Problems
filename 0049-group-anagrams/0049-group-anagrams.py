@@ -3,7 +3,7 @@ class Solution:
         dic = defaultdict(list)
         ans = []
         for j in strs:
-            dic["".join(sorted(list(j)))].append(j)
+            dic["".join(sorted(j))].append(j)
         for j in dic:
             ans.append(dic[j])
         return ans
