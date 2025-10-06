@@ -1,7 +1,6 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dic = defaultdict(list)
-        ans = []
+        anagrams = defaultdict(list)
         for j in strs:
-            dic["".join(sorted(j))].append(j)
-        return list(dic.values())
+            anagrams["".join(sorted(j))].append(j)
+        return list(anagrams.values())
