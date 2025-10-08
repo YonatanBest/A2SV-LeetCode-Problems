@@ -1,15 +1,12 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        x = str(x)
-        ans = []
-        sign = 1
-        for j in range(len(x) - 1, -1, -1):
-            if x[j].isdigit():
-                ans.append(x[j])
-            else:
-                sign = -1
-
-        ans = int("".join(ans)) * sign
-        if ans >= -2147483648 and ans <= 2147483647:
-            return ans
-        return 0
+        sign = 1 if x >= 0 else -1
+        x = sign * x
+        reversed_num = 0
+        while x:
+            reversed_num *= 10
+            reversed_num += x % 10
+            x //= 10
+            if reversed_num * sign < -2147483648 or reversed_num * sign > 2147483647:
+                return 0
+        return reversed_num * sign
