@@ -71,6 +71,7 @@
 | [0119-pascals-triangle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0169-majority-element) |
@@ -246,6 +247,7 @@
 | [0067-add-binary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0342-power-of-four) |
