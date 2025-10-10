@@ -1,29 +1,27 @@
-from collections import defaultdict
 class Solution:
     def longestOnes(self, nums: List[int], k: int) -> int:
-
-        dic = defaultdict(int)
-        chance = k
+        max_ones = 0
+        count = defaultdict(int)
         i = 0
         j = 0
-        max_len = 0
 
-        while j < len(nums):      
-            if nums[j] == 1:
-                dic[1] += 1
+        while j < len(nums):
+            if nums[j]:
+                count[1] += 1
             else:
-                max_len = max(max_len, dic[1])
-                if chance > 0:
-                    dic[1] += 1
-                    chance -= 1
-                else:
-                    while nums[i] != 0:
-                        dic[1] -= 1
-                        i += 1
-                    dic[1] -= 1
+                while not k and i <= j:
+                    if not nums[i]:
+                        k += 1
+                    count[nums[i]] -= 1
                     i += 1
-                    chance = 1
-                    j -= 1
+
+                if k:
+                    k -= 1
+                    count[0] += 1
+                else:
+                    count = defaultdict(int)
+
+            max_ones = max(max_ones, count[0] + count[1])
             j += 1
-        max_len = max(max_len, dic[1])
-        return max_len
+
+        return max_ones
