@@ -5,18 +5,18 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        def reverser(curr, queue):
-            if not curr:
-                return
-            if not curr.next:
-                queue.append(curr.val)
-                curr.val = queue.popleft()
-                return
-            queue.append(curr.val)
-            reverser(curr.next, queue)
-            curr.val = queue.popleft()
+        if not head:
+            return head
 
-            return
+        def reverser(curr):
+
+            if not curr.next:
+                return [curr, curr]
+
+            temp, take = reverser(curr.next)
+            curr.next = None
+            take.next = curr
+
+            return [temp, take.next]
         
-        reverser(head, deque())
-        return head
+        return reverser(head)[0]
