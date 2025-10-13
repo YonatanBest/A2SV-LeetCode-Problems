@@ -351,6 +351,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0020-valid-parentheses) |
@@ -442,6 +443,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0016-3sum-closest) |
@@ -480,6 +482,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0055-jump-game) |
