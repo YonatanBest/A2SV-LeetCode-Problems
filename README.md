@@ -289,6 +289,7 @@
 | [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
@@ -492,6 +493,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
+| [1488-sort-integers-by-the-power-value](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 ## Design
 |  |
 | ------- |
@@ -864,4 +866,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
