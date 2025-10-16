@@ -1,32 +1,33 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        dir = [(-1,0),(1,0),(0,-1),(0,1)]
+        dir = [(1, 0), (0, 1), (-1, 0), (0, -1)]
         max_area = 0
+        curr_area = 0
         visited = set()
-        temp = 1
-        def inbound(row, col):
-            return 0 <= row < len(grid) and 0 <= col < len(grid[0])
-        def traverse(row, col):
-            nonlocal max_area
+
+        def explore(i, j):
             nonlocal visited
-            nonlocal temp
-            if (row, col) in visited:
+            nonlocal curr_area
+
+            if (i, j) in visited:
                 return
-            visited.add((row, col))
-            for i, j in dir:
-                new_row, new_col = row + i, col + j
-                if inbound(new_row, new_col):
-                    if (new_row, new_col) in visited:
-                        continue
-                    if grid[new_row][new_col]:
-                        temp += 1
-                        traverse(new_row, new_col)
-            max_area = max(temp, max_area)
+            
+            visited.add((i, j))
+            curr_area += 1
+
+            for dl, dr in dir:
+                if i + dl >= 0 and i + dl < len(grid) and j + dr >= 0 and j + dr < len(grid[0]) and grid[i + dl][j + dr]:
+                    explore(i + dl, j + dr)
+
+            return
+
         for i in range(len(grid)):
             for j in range(len(grid[0])):
-                if grid[i][j]:
-                    traverse(i, j)
-                temp = 1
-        return max_area
+                if grid[i][j] and (i, j) not in visited:
+                    curr_area = 0
+                    explore(i, j)
+                    max_area = max(max_area, curr_area)
 
+        return max_area
+        
 
