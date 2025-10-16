@@ -204,6 +204,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 | [0768-partition-labels](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
@@ -386,6 +387,7 @@
 | [0567-permutation-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0768-partition-labels) |
@@ -504,6 +506,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 | [0838-design-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
@@ -587,6 +590,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 ## Recursion
 |  |
 | ------- |
@@ -757,6 +761,7 @@
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
