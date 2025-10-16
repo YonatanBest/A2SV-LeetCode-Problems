@@ -400,6 +400,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1449-print-words-vertically](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1449-print-words-vertically) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1651-shuffle-string) |
@@ -530,6 +531,7 @@
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
