@@ -9,10 +9,6 @@ class Solution:
                     stack.pop()
             else:
                stack.append([char, 1])
-               
-        final_str = []
 
-        for j in stack:
-            final_str.extend([j[0]]*j[1])
 
-        return "".join(final_str)
+        return "".join([j[0]*j[1] for j in stack])
