@@ -78,6 +78,7 @@
 | [0169-majority-element](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0228-summary-ranges) |
@@ -639,6 +640,7 @@
 | [0048-rotate-image](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0661-image-smoother) |
@@ -754,6 +756,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -779,6 +782,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0463-island-perimeter) |
@@ -848,6 +852,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
