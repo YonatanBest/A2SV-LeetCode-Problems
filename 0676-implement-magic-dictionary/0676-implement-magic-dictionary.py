@@ -26,8 +26,7 @@ class MagicDictionary:
             if temp.flag and check:
                 return True
             return False
-        if word == "judge":
-            print(temp.children, check, i)
+       
         for j in temp.children:
             
             if check and word[i] != j:
