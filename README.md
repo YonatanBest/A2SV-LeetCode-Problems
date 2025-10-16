@@ -394,6 +394,7 @@
 | [0858-masking-personal-information](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1449-print-words-vertically](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1449-print-words-vertically) |
@@ -523,6 +524,7 @@
 | [0496-next-greater-element-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
