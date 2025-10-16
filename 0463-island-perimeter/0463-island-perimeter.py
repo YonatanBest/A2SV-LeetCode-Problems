@@ -1,22 +1,33 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        dir = [(-1,0), (0, -1), (1, 0), (0, 1)]
-        perimeter = 0
-        def inbound(r, c):
-            return 0 <= r < len(grid) and 0 <= c < len(grid[0])
-        def dfs(row, col, visited):
-            nonlocal perimeter
-            visited.add((row, col))
-            for row_cha, col_cha in dir:
-                new_row, new_col = row + row_cha, col + col_cha
-                if inbound(new_row, new_col) and grid[new_row][new_col]:
-                    if (new_row, new_col) not in visited:
-                        dfs(new_row, new_col, visited)
+        total_per = 0
+        dir = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+
+        
+        def island(i, j, visited):
+            nonlocal total_per
+
+            if (i, j) in visited:
+                return
+            
+            visited.add((i, j))
+
+            for dl, dr in dir:
+                if i + dl >= 0 and i + dl < len(grid) and j + dr >= 0 and j + dr < len(grid[0]):
+                    if not grid[i + dl][j + dr]:
+                        total_per += 1
+                    else:
+                        island(i + dl, j + dr, visited)
                 else:
-                    perimeter += 1
-        for r in range(len(grid)):
-            for c in range(len(grid[0])):
-                if grid[r][c]:
-                    dfs(r, c, set())  
-                    return perimeter
-        return perimeter
+                    total_per += 1
+            return
+
+
+
+        for i in range(len(grid)):
+            for j in range(len(grid[i])):
+                if grid[i][j]:
+                    island(i, j, set())
+                    return total_per
+        return 0
+            
