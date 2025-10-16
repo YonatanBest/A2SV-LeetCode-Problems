@@ -32,10 +32,10 @@ class MagicDictionary:
             if check and word[i] != j:
                 continue
 
-            if word[i] != j:
-                if self._search(word, True, i + 1, temp.children[j]):
-                    return True
-            elif self._search(word, check, i + 1, temp.children[j]):
+            if word[i] != j and self._search(word, True, i + 1, temp.children[j]):
+                return True
+
+            if word[i] == j and self._search(word, check, i + 1, temp.children[j]):
                 return True
        
         return False
