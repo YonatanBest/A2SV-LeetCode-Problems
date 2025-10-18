@@ -371,6 +371,7 @@
 | [0168-excel-sheet-column-title](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0306-additive-number) |
@@ -504,6 +505,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -593,6 +595,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 ## Recursion
 |  |
@@ -760,6 +763,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0399-evaluate-division) |
