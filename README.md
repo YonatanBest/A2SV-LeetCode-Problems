@@ -216,6 +216,7 @@
 | [1364-tuple-with-same-product](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-design-underground-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1512-design-underground-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -404,6 +405,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1449-print-words-vertically](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1449-print-words-vertically) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1512-design-underground-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1512-design-underground-system) |
 | [1651-shuffle-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1797-goal-parser-interpretation](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
@@ -515,6 +517,7 @@
 | [0859-design-circular-deque](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1512-design-underground-system](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Stack
