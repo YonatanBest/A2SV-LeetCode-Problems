@@ -133,6 +133,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1272-invalid-transactions](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
@@ -212,6 +213,7 @@
 | [0940-fruit-into-baskets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1272-invalid-transactions](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -290,6 +292,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1095-two-city-scheduling) |
+| [1272-invalid-transactions](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
@@ -400,6 +403,7 @@
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1272-invalid-transactions](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
