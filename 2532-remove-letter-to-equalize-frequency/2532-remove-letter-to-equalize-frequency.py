@@ -1,16 +1,22 @@
 class Solution:
     def equalFrequency(self, word: str) -> bool:
-        
-        def checker(path):
-            count = Counter(path)
-            freq = count[path[0]]
+        counter = Counter(word)
+
+        def checker(count, freq):
             for i in count:
                 if freq != count[i]:
                     return False
             return True
 
         for i in range(len(word)):
-            if checker(word[:i] + word[i + 1:]):
+            counter[word[i]] -= 1
+
+            if counter[word[i]] == 0:
+                del counter[word[i]]
+
+            if checker(counter, counter[next(iter(counter))]):
                 return True
+            
+            counter[word[i]] += 1
         
         return False
