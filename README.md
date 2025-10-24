@@ -404,6 +404,7 @@
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0886-score-of-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1272-invalid-transactions](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1272-invalid-transactions) |
@@ -544,6 +545,7 @@
 | [0496-next-greater-element-i](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
