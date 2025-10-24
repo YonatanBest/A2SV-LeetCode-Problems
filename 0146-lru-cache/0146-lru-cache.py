@@ -1,63 +1,56 @@
-class Node:
-    def __init__(self, val = 0, next = None):
+class Cache:
+    def __init__(self, val: int, key: int):
         self.val = val
-        self.next = next
-        self.key = None
-
-    def __str__(self):
-        arr = [self.val]
-        curr = self.next
-        while curr:
-            arr.append(curr.val)
-            curr = curr.next
-        
-        return ', '.join(map(str, arr))
+        self.key = key
+        self.next = None
+        self.prev = None
 
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.LRU = Node()
-        self.tail = self.LRU
-        self.count = 0
-        self.length = capacity
-        self.dic = {}
+        self.cache_head = Cache(key=-1, val=-1)
+        self.caches_map = defaultdict(Cache)
+        self.cache_tail = Cache(key=-1, val=-1)
+        self.cache_head.next = self.cache_tail
+        self.cache_tail.prev = self.cache_head
+        self.capacity = capacity
 
     def get(self, key: int) -> int:
-        if key not in self.dic:
+        if key not in self.caches_map:
             return -1
-        node = self.dic[key]
-        temp = node.val
-        self.put(key, node.val)
-        return temp
+        
+        cache = self.caches_map[key]
+        
+        self._remove(cache)
+        self._add(cache)
+
+        return cache.val
 
     def put(self, key: int, value: int) -> None:
-        if key in self.dic:
-            node = self.dic[key]
-            if node == self.tail:
-                node.val = value
-            else:
-                new_node = Node(value)
-                new_node.key = key
-                self.tail.next = new_node
-                self.tail = self.tail.next
-                self.dic[key] = new_node
-                node.val = node.next.val
-                node.key = node.next.key
-                node.next = node.next.next
-                self.dic[node.key] = node
-        else:
-            new_node = Node(value)
-            new_node.key = key
-            self.tail.next = new_node
-            self.tail = self.tail.next
-            self.dic[key] = new_node
-            self.count += 1
-        
-        if self.count > self.length:
-            del self.dic[self.LRU.next.key]
-            self.LRU.next = self.LRU.next.next
-            self.count -= 1
+        if key in self.caches_map:
+            self._remove(self.caches_map[key])
             
+        self._add(Cache(value, key))
+        
+        if len(self.caches_map) > self.capacity:
+            self._remove(self.cache_head.next)
+
+    def _remove(self, cache):
+        cache.prev.next = cache.next
+        cache.next.prev = cache.prev
+        
+        del self.caches_map[cache.key]
+
+    def _add(self, cache):
+        prev_end = self.cache_tail.prev
+        prev_end.next = cache
+        cache.prev = prev_end
+        cache.next = self.cache_tail
+        self.cache_tail.prev = cache
+        
+        self.caches_map[cache.key] = cache
+
+
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
