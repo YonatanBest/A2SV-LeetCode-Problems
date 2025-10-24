@@ -126,6 +126,7 @@
 | [0948-sort-an-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -214,6 +215,7 @@
 | [0829-subdomain-visit-count](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0940-fruit-into-baskets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1272-invalid-transactions](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -405,6 +407,7 @@
 | [0858-masking-personal-information](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0886-score-of-parentheses) |
+| [1006-vowel-spellchecker](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1272-invalid-transactions](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1272-invalid-transactions) |
