@@ -66,6 +66,7 @@
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -272,6 +273,7 @@
 | [0016-3sum-closest](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
@@ -472,6 +474,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
