@@ -10,9 +10,7 @@ class LRUCache:
     def __init__(self, capacity: int):
         self.cache_head = Cache(key=-1, val=-1)
         self.caches_map = defaultdict(Cache)
-        self.cache_tail = Cache(key=-1, val=-1)
-        self.cache_head.next = self.cache_tail
-        self.cache_tail.prev = self.cache_head
+        self.recent_cache = None
         self.capacity = capacity
 
     def get(self, key: int) -> int:
@@ -36,16 +34,27 @@ class LRUCache:
             self._remove(self.cache_head.next)
 
     def _remove(self, cache):
-        cache.prev.next = cache.next
-        cache.next.prev = cache.prev
-        
+        if cache == self.recent_cache:
+            cache.prev.next = None
+            if cache.prev == self.cache_head:
+                self.recent_cache = None
+            else:
+                self.recent_cache = cache.prev
+        else:
+            cache.prev.next = cache.next
+            cache.next.prev = cache.prev
+
         del self.caches_map[cache.key]
 
     def _add(self, cache):
-        self.cache_tail.prev.next = cache
-        cache.next = self.cache_tail
-        cache.prev = self.cache_tail.prev
-        self.cache_tail.prev = cache
+        if self.recent_cache:
+            self.recent_cache.next = cache
+            cache.prev = self.recent_cache
+            self.recent_cache = cache
+        else:
+            self.recent_cache = cache
+            self.cache_head.next = cache
+            cache.prev = self.cache_head
         
         self.caches_map[cache.key] = cache
 
