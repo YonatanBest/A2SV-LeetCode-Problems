@@ -73,6 +73,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0169-majority-element) |
@@ -181,6 +182,7 @@
 | [0036-valid-sudoku](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0146-lru-cache) |
@@ -372,6 +374,7 @@
 | [0076-minimum-window-substring](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0205-isomorphic-strings) |
@@ -504,6 +507,7 @@
 | [0119-pascals-triangle-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1488-sort-integers-by-the-power-value](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
@@ -604,6 +608,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 ## Recursion
@@ -898,5 +903,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0139-word-break) |
 | [1488-sort-integers-by-the-power-value](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
