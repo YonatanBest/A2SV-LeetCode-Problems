@@ -42,10 +42,9 @@ class LRUCache:
         del self.caches_map[cache.key]
 
     def _add(self, cache):
-        prev_end = self.cache_tail.prev
-        prev_end.next = cache
-        cache.prev = prev_end
+        self.cache_tail.prev.next = cache
         cache.next = self.cache_tail
+        cache.prev = self.cache_tail.prev
         self.cache_tail.prev = cache
         
         self.caches_map[cache.key] = cache
