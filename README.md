@@ -795,6 +795,7 @@
 | [0676-implement-magic-dictionary](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1005-univalued-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -818,6 +819,7 @@
 | [0547-number-of-provinces](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1005-univalued-binary-tree](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -867,6 +869,7 @@
 | [0090-subsets-ii](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0306-additive-number) |
+| [0813-all-paths-from-source-to-target](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1418-fair-distribution-of-cookies](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Bitmask
@@ -893,6 +896,7 @@
 | [0399-evaluate-division](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YonatanBest/A2SV-LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Shortest Path
